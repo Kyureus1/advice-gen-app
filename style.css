@@ -67,9 +67,10 @@ body {
 }
 
 
-@media (max-width: 380px) {
+@media (max-width: 675px) {
 
     #apt {
+        margin: 50px;
         width: 290px;
         height: 380px;
     }
