@@ -67,7 +67,7 @@ body {
 }
 
 
-@media screen and (max-width: 365px) {
+@media screen and (max-width: 675px) {
 
     body {
         display: flex;
